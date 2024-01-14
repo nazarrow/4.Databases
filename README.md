@@ -8,6 +8,7 @@
 + [Тестирование базы данных. Версия разработчика](https://habr.com/ru/post/278841/)
 + [Тестирование в системе рабочих баз данных](https://learn.microsoft.com/ru-ru/ef/core/testing/testing-with-the-database)
 + [Типы тестирования баз данных и инструменты](https://bestprogrammer.ru/baza-dannyh/tipy-testirovaniya-baz-dannyh-i-instrumenty)
++ [25 СУБД, которые актуальны в 2024 году](https://habr.com/ru/articles/785366/)
 
 # SQL
 + [Как устроен язык SQL и почему он так востребован](https://practicum.yandex.ru/blog/chto-takoe-sql/)
@@ -31,6 +32,7 @@
 ## Вопросы
 + [Топ-65 вопросов по SQL с собеседований, к которым вы должны подготовиться в 2019 году. Часть I](https://habr.com/ru/company/otus/blog/461067/)
 + [100+ самых популярных вопросов и ответов на собеседованиях по SQL](https://www.softwaretestingmaterial.com/sql-interview-questions/)
++ [15 примеров задач по SQL на собеседовании по вакансии системного аналитика](https://habr.com/ru/companies/ssp-soft/articles/774502/)
 
 ## Шпаргалки:
 + [Памятка/шпаргалка по SQL](https://habr.com/ru/post/564390/)
